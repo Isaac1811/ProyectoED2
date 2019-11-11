@@ -37,6 +37,7 @@
 		<Unit filename="include/BSTNode.h" />
 		<Unit filename="include/Dictionary.h" />
 		<Unit filename="include/KVPair.h" />
+		<Unit filename="include/List.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

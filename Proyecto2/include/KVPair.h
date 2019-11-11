@@ -4,11 +4,11 @@
 template <typename K, typename V>
 class KVPair{
 
-    private:
+private:
         K key;
         V value;
 
-    public:
+public:
         KVPair() {}
         KVPair(K key){
             this->key=key;
