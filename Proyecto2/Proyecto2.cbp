@@ -38,6 +38,8 @@
 		<Unit filename="include/Dictionary.h" />
 		<Unit filename="include/KVPair.h" />
 		<Unit filename="include/List.h" />
+		<Unit filename="include/Trie.h" />
+		<Unit filename="include/TrieNode.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

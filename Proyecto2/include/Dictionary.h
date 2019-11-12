@@ -2,6 +2,11 @@
 #define DICTIONARY_H
 #include "List.h"
 
+/*
+Creador: María Fernanda Lanza Cruz
+Fecha: 11/11/19
+Funcionalidad:
+*/
 template <typename K, typename V>
 class Dictionary
 {

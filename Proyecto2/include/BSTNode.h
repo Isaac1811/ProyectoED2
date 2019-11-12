@@ -1,6 +1,11 @@
 #ifndef BSTNODE_H
 #define BSTNODE_H
 
+/*
+Creador: María Fernanda Lanza Cruz
+Fecha: 11/11/19
+Funcionalidad:
+*/
 
 template <typename Key, typename E>
 class BSTNode{
